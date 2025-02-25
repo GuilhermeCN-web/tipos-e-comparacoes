@@ -1,0 +1,1 @@
+print(f"{5} new messages and {2} friend requests")
